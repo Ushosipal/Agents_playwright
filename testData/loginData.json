@@ -1,0 +1,38 @@
+[
+  {
+    "testCaseId": "TC_LOGIN_001",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "expectedResult": "success"
+  },
+  {
+    "testCaseId": "TC_LOGIN_002",
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "expectedResult": "locked"
+  },
+  {
+    "testCaseId": "TC_LOGIN_003",
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "expectedResult": "success"
+  },
+  {
+    "testCaseId": "TC_LOGIN_004",
+    "username": "performance_glitch_user",
+    "password": "secret_sauce",
+    "expectedResult": "success"
+  },
+  {
+    "testCaseId": "TC_LOGIN_005",
+    "username": "error_user",
+    "password": "secret_sauce",
+    "expectedResult": "success"
+  },
+  {
+    "testCaseId": "TC_LOGIN_006",
+    "username": "visual_user",
+    "password": "secret_sauce",
+    "expectedResult": "success"
+  }
+]
