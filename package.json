@@ -1,0 +1,18 @@
+{
+  "name": "agentic_ai_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
